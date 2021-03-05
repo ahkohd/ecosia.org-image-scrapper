@@ -8,7 +8,7 @@
     "delete": "^1.1.0",
     "execution-time": "^1.2.0",
     "image-downloader": "^3.4.1",
-    "node-html-parser": "^1.1.10"
+    "node-html-parser": "^3.0.4"
   },
   "devDependencies": {},
   "scripts": {
